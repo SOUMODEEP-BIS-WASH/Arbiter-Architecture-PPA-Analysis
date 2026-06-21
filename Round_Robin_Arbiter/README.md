@@ -18,7 +18,7 @@ The design was implemented and analyzed using **AMD Vivado** for functional veri
 * Maximum grant duration of 3 cycles per requester
 * Prevents starvation
 * Fair resource allocation
-* FPGA implementation with synthesis reports
+
 
 ---
 
