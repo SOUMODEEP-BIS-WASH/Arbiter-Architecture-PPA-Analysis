@@ -41,7 +41,7 @@ Apart from these, this repository also contains a 4x4 crossbar switch architectu
 # Project Structure
 
 ```bash
-├── Crossbar_Switch
+├── Crossbar_Switch/
 ├── Fixed_Priority_Arbiter/
 ├── Round_Robin_Arbiter/
 ├── Weighted_Round_Robin_Arbiter/
