@@ -1,4 +1,4 @@
-# Project 4: Weighted Round Robin Arbiter (WRRA)
+# Weighted Round Robin Arbiter (WRRA)
 
 ## Overview
 This project implements a **4-Request Weighted Round Robin Arbiter (WRRA)** in Verilog HDL.  
